@@ -19,19 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9278b1d2-8a87-43e0-bf24-9716dfab815d" name="Default Changelist" comment="eerste commit">
-      <change afterPath="$PROJECT_DIR$/H1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H1/.idea/pagina.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H2/BellenBlazen.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H2/BellenBlazen2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H2/Pagina 1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H2/Pagina 2.html" afterDir="false" />
+    <list default="true" id="9278b1d2-8a87-43e0-bf24-9716dfab815d" name="Default Changelist" comment="heel H2 erbij">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/H2/Pagina 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/H2/Pagina 2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +68,9 @@
       <option name="presentableId" value="Default" />
       <updated>1605605227799</updated>
       <workItem from="1605605229148" duration="2437000" />
-      <workItem from="1605689202243" duration="5243000" />
+      <workItem from="1605689202243" duration="5719000" />
+      <workItem from="1605700814951" duration="1884000" />
+      <workItem from="1605703981925" duration="258000" />
     </task>
     <task id="LOCAL-00001" summary="eerste commit">
       <created>1605606968833</created>
@@ -87,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605606968833</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="heel H2 erbij">
+      <created>1605695496202</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605695496202</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,11 +102,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="eerste commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="eerste commit" />
+    <MESSAGE value="heel H2 erbij" />
+    <option name="LAST_COMMIT_MESSAGE" value="heel H2 erbij" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605693836285">
@@ -122,10 +123,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/-1920.261.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605605267389" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605607060944">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605695499325">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/-1920.261.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605607060944" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/-1920.261.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605695499325" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605695476319">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.261.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605695476319" />
     <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1605607006897">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
