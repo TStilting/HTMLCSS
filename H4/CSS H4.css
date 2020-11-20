@@ -1,0 +1,25 @@
+body {
+    background-color: yellow;
+    width: 960px;
+    height: 1000px;
+    padding: 20px;
+}
+header{
+    background-color: red;
+    width: 960px;
+    height: 40px;
+    margin-bottom: 30px;
+}
+main{
+    background-color: green;
+    width: 960px;
+    height: 300px;
+    border: 1px, black, solid;
+}
+footer{
+    background-color: black;
+    color: white;
+    width: 960px;
+    height: 70px;
+    padding: 20px;
+}
