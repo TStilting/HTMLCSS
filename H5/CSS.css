@@ -1,0 +1,43 @@
+body {
+    background-color: darksalmon;
+    width: 100vw;
+}
+header {
+    background-color: crimson;
+    width: 98vw;
+    height: 20%;
+    margin: 5px;
+    font-size: 3em;
+}
+nav {
+    background-color: brown;
+    width: 98vw;
+    margin: 5px;
+    text-align: center;
+}
+section {
+    background-color: firebrick;
+    width: 140px;
+    height: 140px;
+    float: left;
+    padding: 20px;
+    border: 1px solid black;
+}
+section.breed {
+    position: relative;
+    width: 280px;
+    height: 140px;
+}
+dev {
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+    float: left;
+    margin: 5px;
+    border: 1px solid black;
+}
+dev.dun {
+    position:relative;
+    width: 100px;
+    height: 33px;
+}

@@ -19,15 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9278b1d2-8a87-43e0-bf24-9716dfab815d" name="Default Changelist" comment="H4 bijgewerkt">
+    <list default="true" id="9278b1d2-8a87-43e0-bf24-9716dfab815d" name="Default Changelist" comment="namen veranderd">
+      <change afterPath="$PROJECT_DIR$/H5/CSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H5/Index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H2/Pagina 1.html" beforeDir="false" afterPath="$PROJECT_DIR$/H2/Index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H2/Pagina 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/H2/Pagina 2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H3/Tabel (De Overige)/Tabel Type 1.html" beforeDir="false" afterPath="$PROJECT_DIR$/H3/Tabel (De Overige)/Index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H3/Tabel (De Overige)/Tabel Type 10.html" beforeDir="false" afterPath="$PROJECT_DIR$/H3/Tabel (De Overige)/Tabel Type 10.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H3/Tabel (De Overige)/Table Type 14.html" beforeDir="false" afterPath="$PROJECT_DIR$/H3/Tabel (De Overige)/Table Type 14.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H3/Tabel.html" beforeDir="false" afterPath="$PROJECT_DIR$/H3/Index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H4/Pagina H4.html" beforeDir="false" afterPath="$PROJECT_DIR$/H4/Index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,8 +35,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -82,7 +77,7 @@
       <workItem from="1605774320815" duration="4902000" />
       <workItem from="1605786939658" duration="1433000" />
       <workItem from="1605860914164" duration="6747000" />
-      <workItem from="1606206437142" duration="334000" />
+      <workItem from="1606206437142" duration="6198000" />
     </task>
     <task id="LOCAL-00001" summary="eerste commit">
       <created>1605606968833</created>
@@ -126,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605865612246</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="namen veranderd">
+      <created>1606206861774</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1606206861774</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,7 +154,8 @@
     <MESSAGE value="H3 gedaan" />
     <MESSAGE value="H4 aan gewerkt" />
     <MESSAGE value="H4 bijgewerkt" />
-    <option name="LAST_COMMIT_MESSAGE" value="H4 bijgewerkt" />
+    <MESSAGE value="namen veranderd" />
+    <option name="LAST_COMMIT_MESSAGE" value="namen veranderd" />
   </component>
   <component name="WindowStateProjectService">
     <state x="586" y="198" key="#Inspections" timestamp="1605861927823">
@@ -171,10 +174,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/-1920.261.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605605267389" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605865613695">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606206864332">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/-1920.261.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605865613695" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/-1920.261.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606206864332" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605695476319">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
