@@ -6,38 +6,46 @@ header {
     background-color: crimson;
     width: 98vw;
     height: 20%;
-    margin: 5px;
     font-size: 3em;
 }
 nav {
     background-color: brown;
     width: 98vw;
-    margin: 5px;
     text-align: center;
 }
 section {
     background-color: firebrick;
-    width: 140px;
-    height: 140px;
+    width: 45vw;
+    height: 45vw;
     float: left;
     padding: 20px;
+    margin: 5px;
     border: 1px solid black;
+    text-align: center;
 }
 section.breed {
     position: relative;
-    width: 280px;
-    height: 140px;
+    width: 93vw;
+    height: 40vw;
 }
 dev {
-    width: 100px;
-    height: 100px;
+    width: 42vw;
+    height: 42vw;
     background-color: blueviolet;
     float: left;
     margin: 5px;
     border: 1px solid black;
+    text-align: center;
 }
 dev.dun {
     position:relative;
-    width: 100px;
-    height: 33px;
+    width: 42vw;
+    height: 14vw;
+}
+dev.lang {
+    position:relative;
+    width: 25vw;
+    height: 37vw;
+    margin-left: 60px;
+    font-size: 3em;
 }
