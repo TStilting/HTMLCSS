@@ -49,3 +49,19 @@ dev.lang {
     margin-left: 60px;
     font-size: 3em;
 }
+form {
+    background-color: firebrick;
+    border: 1px solid black;
+    width: 350px;
+}
+form ul {
+    list-style-type: none;
+    padding: 0;
+}
+form ul li{
+    padding: 10px;
+}
+form ul li imput {
+    position: absolute;
+    left: 150px;
+}

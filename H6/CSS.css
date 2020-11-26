@@ -1,0 +1,29 @@
+body {
+    background-color: darksalmon;
+    width: 100vw;
+}
+form {
+    background-color: firebrick;
+    border: 1px solid black;
+    width: 450px;
+    height: 500px;
+}
+form ul {
+    list-style-type: none;
+    padding: 0;
+}
+form ul li{
+    padding: 10px;
+}
+form ul li imput {
+    position: absolute;
+    left: 150px;
+}
+dev {
+    float: left;
+}
+dev.knop {
+    position: absolute;
+    left: 300px;
+    top: 460px;
+}

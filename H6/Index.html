@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="CSS.css">
+    <title>VrbldInvulForm</title>
+</head>
+ <body>
+ <form action="Index.html" method="get">
+     <ul>
+
+         <li>
+             <h2>Voorbeeldformulier</h2>
+             <span class="invullen">Vul in:</span>
+         </li>
+         <dev>
+         <li>
+             <label for="voornaam">Voornaam:</label>
+             <input type="text" name="voornaam" id="voornaam">
+         </li>
+         <li>
+             <label for="tussenvoegsel">Tussenvoegsel:</label>
+             <input type="text" name="tussenvoegsel" id="tussenvoegsel">
+         </li>
+         <li>
+             <label for="achternaam">Achternaam:</label>
+             <input type="text" name="achternaam" id="achternaam">
+         </li>
+         <li>
+             <label>Geslacht:</label>
+             <input type="radio" name="geslacht" value="man"/>
+             &nbsp;Man
+             <input type="radio" name="geslacht" value="vrouw"/>
+             &nbsp;Vrouw
+             <input type="radio" name="geslacht" value="overigg"/>
+             &nbsp;Overig
+         </li>
+         <li>
+             <label>Kleur Ogen:</label>
+             <select name="kleur-ogen">
+                 <option>bruin</option>
+                 <option>groen</option>
+                 <option>blauw</option>
+                 <option>overig</option>
+             </select>
+         </li>
+         <li>
+             <label>Geboortedatum:</label>
+             <input type="date" name="geboortedatum">
+         </li>
+         <li>
+             <textarea name="omschrijving"></textarea>
+         </li>
+         </dev>
+         <dev>
+         <li>
+             <label>Lekker Eten:</label><br>
+             <input type="checkbox" name="lekker-eten" value="patat">
+             <span class="checkbox">Patat</span><br>
+             <input type="checkbox" name="lekker-eten" value="bonen">
+             <span class="checkbox">Bonen</span><br>
+             <input type="checkbox" name="lekker-eten" value="spaghetti">
+             <span class="checkbox">Spaghetti</span><br>
+             <input type="checkbox" name="lekker-eten" value="overigl">
+             <span class="checkbox">Overig</span>
+         </li>
+         </dev>
+         <dev class="knop">
+         <li>
+             <input type="submit" name="knop">
+         </li>
+         </dev>
+     </ul>
+ </form>
+ </body>
+</html>
