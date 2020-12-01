@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9278b1d2-8a87-43e0-bf24-9716dfab815d" name="Default Changelist" comment="main index afgemaakt">
+    <list default="true" id="9278b1d2-8a87-43e0-bf24-9716dfab815d" name="Default Changelist" comment="H7 verder gegaan, nog verder">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/H7/CSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/H7/CSS.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +82,8 @@
       <workItem from="1606380216748" duration="7026000" />
       <workItem from="1606466596456" duration="34000" />
       <workItem from="1606466665308" duration="5769000" />
-      <workItem from="1606736365549" duration="1014000" />
+      <workItem from="1606736365549" duration="4511000" />
+      <workItem from="1606811319326" duration="2958000" />
     </task>
     <task id="LOCAL-00001" summary="eerste commit">
       <created>1605606968833</created>
@@ -175,7 +176,35 @@
       <option name="project" value="LOCAL" />
       <updated>1606737075264</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="main index helemaal afgemaakt">
+      <created>1606737471163</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1606737471163</updated>
+    </task>
+    <task id="LOCAL-00015" summary="main index helemaal, helemaal afgemaakt">
+      <created>1606738196633</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1606738196633</updated>
+    </task>
+    <task id="LOCAL-00016" summary="H7 verder gegaan">
+      <created>1606739648605</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1606739648605</updated>
+    </task>
+    <task id="LOCAL-00017" summary="H7 verder gegaan, nog verder">
+      <created>1606740726173</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1606740726173</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,7 +237,11 @@
     <MESSAGE value="H7 aan gewerkt" />
     <MESSAGE value="main index aangemaakt" />
     <MESSAGE value="main index afgemaakt" />
-    <option name="LAST_COMMIT_MESSAGE" value="main index afgemaakt" />
+    <MESSAGE value="main index helemaal afgemaakt" />
+    <MESSAGE value="main index helemaal, helemaal afgemaakt" />
+    <MESSAGE value="H7 verder gegaan" />
+    <MESSAGE value="H7 verder gegaan, nog verder" />
+    <option name="LAST_COMMIT_MESSAGE" value="H7 verder gegaan, nog verder" />
   </component>
   <component name="WindowStateProjectService">
     <state x="586" y="198" key="#Inspections" timestamp="1605861927823">
@@ -227,11 +260,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/-1920.261.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605605267389" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606737077629">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606740727722">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/-1920.261.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606474009886" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606737077629" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606740727722" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605695476319">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

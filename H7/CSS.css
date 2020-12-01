@@ -15,8 +15,8 @@ nav {
 }
 section {
     background-color: firebrick;
-    width: 45vw;
-    height: 45vw;
+    width: 85vw;
+    height: 85vw;
     float: bottom;
     padding: 20px;
     margin: 5px;
@@ -25,12 +25,12 @@ section {
 }
 section.breed {
     position: relative;
-    width: 93vw;
-    height: 40vw;
+    width: 85vw;
+    height: 260vw;
 }
 dev {
-    width: 42vw;
-    height: 42vw;
+    width: 82vw;
+    height: 82vw;
     background-color: blueviolet;
     float: left;
     margin: 5px;
@@ -39,13 +39,13 @@ dev {
 }
 dev.dun {
     position:relative;
-    width: 42vw;
-    height: 14vw;
+    width: 82vw;
+    height: 27vw;
 }
 dev.lang {
     position:relative;
-    width: 25vw;
-    height: 37vw;
+    width: 60vw;
+    height: 80vw;
     margin-left: 60px;
     font-size: 3em;
 }
@@ -131,7 +131,7 @@ dev.lang {
     section.breed {
         position: relative;
         width: 93vw;
-        height: 40vw;
+        height: 42vw;
     }
     dev {
         width: 42vw;
