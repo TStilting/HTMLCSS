@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9278b1d2-8a87-43e0-bf24-9716dfab815d" name="Default Changelist" comment="H7 aan gewerkt">
+    <list default="true" id="9278b1d2-8a87-43e0-bf24-9716dfab815d" name="Default Changelist" comment="H7 klaar">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +83,8 @@
       <workItem from="1606466665308" duration="5769000" />
       <workItem from="1606736365549" duration="4511000" />
       <workItem from="1606811319326" duration="3906000" />
-      <workItem from="1606899617328" duration="186000" />
+      <workItem from="1606899617328" duration="4065000" />
+      <workItem from="1606911192875" duration="926000" />
     </task>
     <task id="LOCAL-00001" summary="eerste commit">
       <created>1605606968833</created>
@@ -211,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606814784566</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="H7 klaar">
+      <created>1606899833530</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1606899833530</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -248,7 +256,8 @@
     <MESSAGE value="H7 verder gegaan" />
     <MESSAGE value="H7 verder gegaan, nog verder" />
     <MESSAGE value="H7 aan gewerkt" />
-    <option name="LAST_COMMIT_MESSAGE" value="H7 aan gewerkt" />
+    <MESSAGE value="H7 klaar" />
+    <option name="LAST_COMMIT_MESSAGE" value="H7 klaar" />
   </component>
   <component name="WindowStateProjectService">
     <state x="586" y="198" key="#Inspections" timestamp="1605861927823">
@@ -267,10 +276,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/-1920.261.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605605267389" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606814786416">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606899836985">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/-1920.261.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606814786416" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/-1920.261.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606899836985" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606740727722" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605695476319">
       <screen x="0" y="0" width="1920" height="1040" />
