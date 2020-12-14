@@ -19,7 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9278b1d2-8a87-43e0-bf24-9716dfab815d" name="Default Changelist" comment="H7 klaar">
+    <list default="true" id="9278b1d2-8a87-43e0-bf24-9716dfab815d" name="Default Changelist" comment="voor de zekerheid geupdate">
+      <change afterPath="$PROJECT_DIR$/H8/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +55,7 @@
     <property name="ChangesTree.GroupingKeys" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -84,7 +86,12 @@
       <workItem from="1606736365549" duration="4511000" />
       <workItem from="1606811319326" duration="3906000" />
       <workItem from="1606899617328" duration="4065000" />
-      <workItem from="1606911192875" duration="926000" />
+      <workItem from="1606911192875" duration="1394000" />
+      <workItem from="1606991083218" duration="1250000" />
+      <workItem from="1607416694732" duration="29000" />
+      <workItem from="1607416774535" duration="6000" />
+      <workItem from="1607420929305" duration="13000" />
+      <workItem from="1607947882943" duration="587000" />
     </task>
     <task id="LOCAL-00001" summary="eerste commit">
       <created>1605606968833</created>
@@ -219,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606899833530</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="voor de zekerheid geupdate">
+      <created>1606912384309</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1606912384309</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,7 +271,8 @@
     <MESSAGE value="H7 verder gegaan, nog verder" />
     <MESSAGE value="H7 aan gewerkt" />
     <MESSAGE value="H7 klaar" />
-    <option name="LAST_COMMIT_MESSAGE" value="H7 klaar" />
+    <MESSAGE value="voor de zekerheid geupdate" />
+    <option name="LAST_COMMIT_MESSAGE" value="voor de zekerheid geupdate" />
   </component>
   <component name="WindowStateProjectService">
     <state x="586" y="198" key="#Inspections" timestamp="1605861927823">
@@ -276,10 +291,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/-1920.261.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605605267389" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606899836985">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606912386178">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/-1920.261.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606899836985" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/-1920.261.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606912386178" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606740727722" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605695476319">
       <screen x="0" y="0" width="1920" height="1040" />
