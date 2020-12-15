@@ -1,0 +1,14 @@
+body {
+    background-color: white;
+    width: 100vw;
+}
+header {
+    background-color: cornflowerblue;
+    width: 98vw;
+    height: 15%;
+    font-size: 2em;
+}
+section {
+    width: 50%;
+    float: left;
+}
