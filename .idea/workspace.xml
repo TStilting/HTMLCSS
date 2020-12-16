@@ -19,14 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9278b1d2-8a87-43e0-bf24-9716dfab815d" name="Default Changelist" comment="H8 index aangemaakt">
-      <change afterPath="$PROJECT_DIR$/H8/CSS.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H8/boerenkool.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H8/recept.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H8/spaghetti.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H8/stampot.html" afterDir="false" />
+    <list default="true" id="9278b1d2-8a87-43e0-bf24-9716dfab815d" name="Default Changelist" comment="alvast de recepten pagina gemaakt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/H8/CSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/H8/CSS.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/H8/boerenkool.html" beforeDir="false" afterPath="$PROJECT_DIR$/H8/boerenkool.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/H8/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/H8/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/H8/recept.html" beforeDir="false" afterPath="$PROJECT_DIR$/H8/recept.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/H8/spaghetti.html" beforeDir="false" afterPath="$PROJECT_DIR$/H8/spaghetti.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/H8/stampot.html" beforeDir="false" afterPath="$PROJECT_DIR$/H8/stampot.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +99,10 @@
       <workItem from="1607947882943" duration="715000" />
       <workItem from="1608022182306" duration="26000" />
       <workItem from="1608022888490" duration="6000" />
-      <workItem from="1608022941984" duration="6601000" />
+      <workItem from="1608022941984" duration="6816000" />
+      <workItem from="1608034356631" duration="326000" />
+      <workItem from="1608034692072" duration="1073000" />
+      <workItem from="1608108028878" duration="26000" />
     </task>
     <task id="LOCAL-00001" summary="eerste commit">
       <created>1605606968833</created>
@@ -248,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607948538491</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="alvast de recepten pagina gemaakt">
+      <created>1608029790038</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1608029790038</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -288,6 +298,7 @@
     <MESSAGE value="H7 klaar" />
     <MESSAGE value="voor de zekerheid geupdate" />
     <MESSAGE value="H8 index aangemaakt" />
-    <option name="LAST_COMMIT_MESSAGE" value="H8 index aangemaakt" />
+    <MESSAGE value="alvast de recepten pagina gemaakt" />
+    <option name="LAST_COMMIT_MESSAGE" value="alvast de recepten pagina gemaakt" />
   </component>
 </project>
