@@ -19,21 +19,25 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9278b1d2-8a87-43e0-bf24-9716dfab815d" name="Default Changelist" comment="alvast de recepten pagina gemaakt met CSS erbij">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="9278b1d2-8a87-43e0-bf24-9716dfab815d" name="Default Changelist" comment="index gemaakt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BierHier-opdracht/H8/Stamppot.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BierHier-opdracht/H8/Almere.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/BierHier-opdracht/H8/Almere.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BierHier-opdracht/H8/Almere2.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BierHier-opdracht/H8/Almere3.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BierHier-opdracht/H8/Boerenkool.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/BierHier-opdracht/H8/Boerenkool.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BierHier-opdracht/H8/Boerenkool2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/BierHier-opdracht/H8/Boerenkool2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BierHier-opdracht/H8/Boerenkool3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/BierHier-opdracht/H8/Boerenkool3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BierHier-opdracht/H8/CSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/BierHier-opdracht/H8/CSS.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BierHier-opdracht/H8/Spaghetti.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/BierHier-opdracht/H8/Spaghetti.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BierHier-opdracht/H8/Spaghetti2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/BierHier-opdracht/H8/Spaghetti2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BierHier-opdracht/H8/Spaghetti3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/BierHier-opdracht/H8/Spaghetti3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BierHier-opdracht/H8/Stamppot2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/BierHier-opdracht/H8/Stamppot2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BierHier-opdracht/H8/Stamppot3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/BierHier-opdracht/H8/Stamppot3.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BierHier-opdracht/H8/boerenkool.html" beforeDir="false" afterPath="$PROJECT_DIR$/BierHier-opdracht/H8/boerenkool.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BierHier-opdracht/H8/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/BierHier-opdracht/H8/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BierHier-opdracht/H8/recept.html" beforeDir="false" afterPath="$PROJECT_DIR$/BierHier-opdracht/H8/recept.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BierHier-opdracht/H8/spaghetti.html" beforeDir="false" afterPath="$PROJECT_DIR$/BierHier-opdracht/H8/spaghetti.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BierHier-opdracht/H8/stampot.html" beforeDir="false" afterPath="$PROJECT_DIR$/BierHier-opdracht/H8/stampot.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H8/CSS.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/H8/boerenkool.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/H8/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/H8/recept.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/H8/spaghetti.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/H8/stampot.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +116,11 @@
       <workItem from="1608108028878" duration="62000" />
       <workItem from="1608109298611" duration="15000" />
       <workItem from="1608109330547" duration="70000" />
-      <workItem from="1608109648406" duration="4305000" />
+      <workItem from="1608109648406" duration="4481000" />
+      <workItem from="1608120441916" duration="1928000" />
+      <workItem from="1608197887438" duration="5238000" />
+      <workItem from="1608207587901" duration="755000" />
+      <workItem from="1608208459331" duration="66000" />
     </task>
     <task id="LOCAL-00001" summary="eerste commit">
       <created>1605606968833</created>
@@ -275,7 +283,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608108079553</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="index gemaakt">
+      <created>1608114198832</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1608114198832</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -317,6 +332,7 @@
     <MESSAGE value="H8 index aangemaakt" />
     <MESSAGE value="alvast de recepten pagina gemaakt" />
     <MESSAGE value="alvast de recepten pagina gemaakt met CSS erbij" />
-    <option name="LAST_COMMIT_MESSAGE" value="alvast de recepten pagina gemaakt met CSS erbij" />
+    <MESSAGE value="index gemaakt" />
+    <option name="LAST_COMMIT_MESSAGE" value="index gemaakt" />
   </component>
 </project>
