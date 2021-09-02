@@ -8,11 +8,10 @@ tr {
 }
 td {
     height: 80px;
-    width: 14%;
 }
 td.a {
     background-color: fuchsia;
-    width: 8%;
+    width: 12%;
 }
 td.b {
     background-color: darkseagreen;
@@ -20,7 +19,7 @@ td.b {
 }
 td.c {
     background-color: cornflowerblue;
-    width: 20%;
+    width: 17%;
 }
 td.d {
     background-color: blue;

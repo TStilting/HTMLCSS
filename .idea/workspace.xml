@@ -19,16 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9278b1d2-8a87-43e0-bf24-9716dfab815d" name="Default Changelist" comment="CSS klaar">
-      <change afterPath="$PROJECT_DIR$/H7/CSS2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H7/op1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H7/test.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reflectie.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tijdlijn/CSS.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tijdlijn/index.html" afterDir="false" />
+    <list default="true" id="9278b1d2-8a87-43e0-bf24-9716dfab815d" name="Default Changelist" comment="introductie gedaan">
+      <change afterPath="$PROJECT_DIR$/WIN_20210902_14_08_25_Pro.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BierHier-opdracht/H8/Gezicht.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tijdlijn/CSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/Tijdlijn/CSS.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tijdlijn/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tijdlijn/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +112,8 @@
       <workItem from="1608281735191" duration="355000" />
       <workItem from="1625731233445" duration="4943000" />
       <workItem from="1630572244541" duration="1555000" />
-      <workItem from="1630577507377" duration="5508000" />
+      <workItem from="1630577507377" duration="5534000" />
+      <workItem from="1630584667080" duration="1215000" />
     </task>
     <task id="LOCAL-00001" summary="eerste commit">
       <created>1605606968833</created>
@@ -294,7 +290,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608208609337</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="introductie gedaan">
+      <created>1630584450637</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1630584450637</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -338,6 +341,7 @@
     <MESSAGE value="alvast de recepten pagina gemaakt met CSS erbij" />
     <MESSAGE value="index gemaakt" />
     <MESSAGE value="CSS klaar" />
-    <option name="LAST_COMMIT_MESSAGE" value="CSS klaar" />
+    <MESSAGE value="introductie gedaan" />
+    <option name="LAST_COMMIT_MESSAGE" value="introductie gedaan" />
   </component>
 </project>
