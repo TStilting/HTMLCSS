@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9278b1d2-8a87-43e0-bf24-9716dfab815d" name="Default Changelist" comment="introductie goed goed gedaan" />
+    <list default="true" id="9278b1d2-8a87-43e0-bf24-9716dfab815d" name="Default Changelist" comment="introductie goed gedaan" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,7 +109,7 @@
       <workItem from="1630572244541" duration="1555000" />
       <workItem from="1630577507377" duration="5534000" />
       <workItem from="1630584667080" duration="1286000" />
-      <workItem from="1630586917055" duration="685000" />
+      <workItem from="1630586917055" duration="773000" />
     </task>
     <task id="LOCAL-00001" summary="eerste commit">
       <created>1605606968833</created>
@@ -321,7 +321,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630587576261</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="introductie goed gedaan">
+      <created>1630587640483</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1630587640483</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -364,8 +371,8 @@
     <MESSAGE value="index gemaakt" />
     <MESSAGE value="CSS klaar" />
     <MESSAGE value="introductie gedaan" />
-    <MESSAGE value="introductie goed gedaan" />
     <MESSAGE value="introductie goed goed gedaan" />
-    <option name="LAST_COMMIT_MESSAGE" value="introductie goed goed gedaan" />
+    <MESSAGE value="introductie goed gedaan" />
+    <option name="LAST_COMMIT_MESSAGE" value="introductie goed gedaan" />
   </component>
 </project>
