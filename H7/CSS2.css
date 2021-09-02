@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+}
+section {
+    width: 900px;
+ }
+div {
+ float: left;
+}
+
+div.a {
+    height: 200px;
+    width: 300px;
+    background-color: red;
+}
+div.b {
+    height: 200px;
+    width: 300px;
+    background-color: blue;
+}
+div.c {
+    height: 200px;
+    width: 300px;
+    background-color: green;
+    float: bottom;
+}
+div.d {
+    height: 200px;
+    width: 300px;
+    background-color: purple;
+}
+div.e {
+    height: 200px;
+    width: 300px;
+    background-color: darkred;
+}
+div.f {
+    height: 200px;
+    width: 300px;
+    background-color: pink;
+}
+div.g {
+    height: 200px;
+    width: 300px;
+    background-color: yellow;
+}
