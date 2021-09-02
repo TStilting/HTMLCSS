@@ -11,7 +11,7 @@ td {
 }
 td.a {
     background-color: fuchsia;
-    width: 12%;
+    width: 9%;
 }
 td.b {
     background-color: darkseagreen;
@@ -23,11 +23,11 @@ td.c {
 }
 td.d {
     background-color: blue;
-    width: 30%;
+    width: 25%;
 }
 td.e {
     background-color: hotpink;
-    width: 6%;
+    width: 10%;
 }
 td.f {
     background-color: lawngreen;
